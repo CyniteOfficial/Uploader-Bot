@@ -34,7 +34,7 @@ heroku/python
 
 ## 🚸 HEROKU CLI COMMANDS
 
-`* git clone https://github.com/Clinton-Abraham/UPLOADER-BOT.git`
+`* git clone https://github.com/cynitebots/cyniteuploader`
 
 `* heroku login`
 
