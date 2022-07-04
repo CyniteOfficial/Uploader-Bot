@@ -1,6 +1,6 @@
-#### [UPLOADER-BOT](https://t.me/uploader_x_bot)
+#### [UPLOADER-BOT](https://t.me/TechnicalCynite)
 
-[![Size](https://img.shields.io/github/repo-size/Clinton-Abraham/UPLOADER-BOT?style=flat-square&color=green)](https://github.com/Clinton-Abraham/UPLOADER-BOT)
+[![Size](https://img.shields.io/github/repo-size/CyniteOfficial/Uploader-Bot?style=flat-square&color=green)](https://github.com/CyniteOfficial/Uploader-Bot)
 
 ---
 
@@ -28,15 +28,15 @@ https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
 heroku/python
 ```
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/Clinton-Abraham/UPLOADER-BOT)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/CyniteOfficial/Uploader-Bot)
 
 
-## 🍃 How To Get Mongodb URI - [ Watch Video ](https://youtu.be/YIYSby2PcfU)
+## 🍃 How To Get Mongodb URI - [ Watch Video ](https://youtu.be/bk3cinuwEfo)
 
 
 ## 🚸 HEROKU CLI COMMANDS
 
-`* git clone https://github.com/Clinton-Abraham/UPLOADER-BOT.git`
+`* git clone https://github.com/CyniteOfficial/Uploader-Bot`
 
 `* heroku login`
 
@@ -58,16 +58,6 @@ heroku/python
 * total - 👨‍👨‍👦‍👦 To get total users count
 * viewthumbnail - 🌌 Current Thumbnail
 * delthumbnail - 🎇 Delete thumbnail
-
-## OTHER BOTS 🕊️
-
-* Rᴇɴᴀᴍᴇ x ʙᴏᴛ  -  [ ꜱᴛᴀʀᴛ ](https://t.me/rename_x_bot)
-
-* Tᴏʀʀᴇɴᴛ x ʙᴏᴛ  -  [ ꜱᴛᴀʀᴛ ](https://t.me/torrent_x_bot)
-
-* Uᴘʟᴏᴀᴅᴇʀ x ʙᴏᴛ  -  [ ꜱᴛᴀʀᴛ ](https://t.me/uploader_x_bot)
-
-* Sʜᴏʀᴛɴᴇʀ x ʙᴏᴛ  -  [ ꜱᴛᴀʀᴛ ](https://t.me/shortner_x_bot)
 
 ## Credits, and Thanks to
 
